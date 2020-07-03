@@ -4,7 +4,7 @@ end
 
 
 def using_insert(array, num1)
-array.insert(3, num1)
+array.insert(4, num1)
 end
 
 
